@@ -7,6 +7,10 @@
 
 Perfected GLFW bindings for Zig
 
+## Why the fork
+- Uses Zig 0.13.0 instead of Mach nominated version
+- Support for OpenGL < 4.0 (for macOS)
+
 ## Features
 
 * Zero-fuss installation, cross-compilation at the flip of a switch, and broad platform support.
